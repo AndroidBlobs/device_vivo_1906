@@ -1,0 +1,4 @@
+require version-baseband=3.2-00221-SDM439_GENNS_PACK-1.226775.1.240496.1
+require version-modem=2020-02-2920:19:05
+require version-trustzone=TZ.BF.4.0.5-00196
+require version-vendor=1582977955
